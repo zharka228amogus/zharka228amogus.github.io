@@ -1,0 +1,31 @@
+p {
+		color: white; 
+		line-height: 1.25;
+	margin-bottom: 1em;
+}
+
+body {
+    background-color: #131313;
+    color: white; 
+  
+}
+h1 {
+    color: #FF5733;
+}
+div { 
+    outline: 1px solid orange; 
+}
+.entry-wraper{
+display: flex;
+flex-direction:row;
+justify-content: space-around;
+ flex-wrap: wrap;
+margin-bottom: 40px;
+position: relative;
+}
+.entry{
+    width: 600px;
+}
+jpg{
+    width: 480px;
+}
